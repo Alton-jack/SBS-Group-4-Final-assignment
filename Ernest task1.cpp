@@ -5,7 +5,6 @@
 using namespace std;
 
 // ==========================================
-// Pass Criteria P1 & Merit Criteria M3
 // Encapsulation and Information Hiding
 // ==========================================
 class Goods {
@@ -44,7 +43,7 @@ public:
 };
 
 // ==========================================
-// Merit Criteria M2: Basic Algorithm
+//Basic Algorithm
 // Bubble Sort (Time Complexity: O(n^2))
 // ==========================================
 void bubbleSortDescending(vector<double>& arr) {
@@ -62,7 +61,7 @@ void bubbleSortDescending(vector<double>& arr) {
 }
 
 // ==========================================
-// Merit Criteria M2: Advanced Algorithm
+// Advanced Algorithm
 // QuickSort (Time Complexity: O(n log n))
 // ==========================================
 int partitionDescending(vector<double>& arr, int low, int high) {
