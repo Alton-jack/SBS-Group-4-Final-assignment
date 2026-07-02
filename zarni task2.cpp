@@ -6,7 +6,7 @@
 using namespace std;
 
 // ==========================================
-// P2: Memory Stack Simulation
+//  Memory Stack Simulation
 // ==========================================
 void calculateWeight() {
     cout << "  [Stack Top] Executing calculateWeight()... done. Popping." << endl;
@@ -27,7 +27,7 @@ void simulateCallStack() {
 }
 
 // ==========================================
-// D1: Dijkstra's Algorithm for Truck Routing
+// Dijkstra's Algorithm for Truck Routing
 // ==========================================
 #define V 5 // Number of delivery hubs (Nodes A, B, C, D, E)
 
