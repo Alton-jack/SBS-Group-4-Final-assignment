@@ -5,7 +5,7 @@
 using namespace std;
 
 // ==========================================
-// P4, M4: Complex ADT - AVL Tree Node
+//  Complex ADT - AVL Tree Node
 // ==========================================
 class Node {
 public:
@@ -68,7 +68,7 @@ int getBalance(Node* N) {
 }
 
 // ==========================================
-// P5: Error Handling during Insertion
+// Error Handling during Insertion
 // ==========================================
 Node* insert(Node* node, int id, string name) {
     // Error Handling: Prevent negative IDs
